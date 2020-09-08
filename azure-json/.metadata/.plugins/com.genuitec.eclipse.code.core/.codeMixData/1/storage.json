@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "2bab2b353a10c1d0c13d84705efacebae9bc0b7e9e024d885b8792be2c69a3d5",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "abc7f7e905b321c927c40927c75805ad",
+                "configURIPath": "file:///c%3A/Users/Gustavo/Documents/Projects/Java/azure-json/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e"
+}
